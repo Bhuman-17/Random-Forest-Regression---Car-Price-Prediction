@@ -14,7 +14,6 @@ A Streamlit web application that predicts the **selling price of a car** based o
 
 Clone the repo and install dependencies:
 
-```bash
 git clone https://github.com/yourusername/car-price-prediction-app.git
 cd car-price-prediction-app
 pip install -r requirements.txt
